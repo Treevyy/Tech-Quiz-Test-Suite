@@ -107,7 +107,7 @@
   <img src="assets/E2E_Test_Breakdown.png" alt="Photo of the E2E test passing and opeing tabs on the left hand side of the page to expand on the testing information" width="600" style="margin-bottom: 20px;">
 
   ## Walkthrough Video
-  A demo of the application can be found at the following link: 
+  A demo of the application can be found at the following link: https://drive.google.com/file/d/15DaVA2Tb-8K8FmawfDwR8JZpidLSvb8Q/view
 
   ## URL Link
   There is no URL link to this application
